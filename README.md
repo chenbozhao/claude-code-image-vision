@@ -370,4 +370,4 @@ API model: deepseek-flash
 
 ## License
 
-[MIT](LICENSE) © 2026 jinha
+[MIT](LICENSE) © 2026 chenbozhao
